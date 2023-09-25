@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/britzdm" target="blank"><img src="https://img.shields.io/twitter/follow/britzdm?logo=twitter&style=for-the-badge" alt="britzdm" /></a> </p>
 
-- 🔭 I’m currently working on [CabanaUI for Tailwind](https://github.com/britzdylan/cabana-ui)
-
 - 🌱 I’m currently learning **OpenAI**
 
 - 👨‍💻 All of my projects are available at [https://me.dylanbritz.dev](https://me.dylanbritz.dev)
