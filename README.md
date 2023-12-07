@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **OpenAI**
 
-- 👨‍💻 All of my projects are available at [https://me.dylanbritz.dev](https://me.dylanbritz.dev)
-
 - 📝 I regularly write articles on [https://dylanbritz.dev](https://dylanbritz.dev)
 
-- 📫 How to reach me **me@dylanbritz.dev**
+- 📫 Reach me on X **@britzdm**
 
 - ⚡ Fun fact **I used to be a personal trainer**
 
