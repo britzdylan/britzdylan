@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [https://dylanbritz.dev](https://dylanbritz.dev)
 
-- 📫 Reach me on X **@britzdm**
-
 - ⚡ Fun fact **I used to be a personal trainer**
 
 <h3 align="left">Connect with me:</h3>
